@@ -1,0 +1,15 @@
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.AssemblyInfoInputs.cache
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.AssemblyInfo.cs
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ReadWriteFile.exe
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ReadWriteFile.deps.json
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ReadWriteFile.runtimeconfig.json
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ReadWriteFile.runtimeconfig.dev.json
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ReadWriteFile.dll
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ref\ReadWriteFile.dll
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\net5.0\ReadWriteFile.pdb
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.dll
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ref\ReadWriteFile.dll
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.pdb
+C:\Users\Cloud Analogy\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\net5.0\ReadWriteFile.genruntimeconfig.cache
